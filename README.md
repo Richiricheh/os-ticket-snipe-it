@@ -19,7 +19,7 @@ Will remove the square brackets and add a link, so that when someone clicks on 5
 ## Functions to be Developed
 
 1. Ticket creation for an asset
-ie: Allow for a click box to be added to OST ticket creation page to indicate that the ticket is FOR a specific piece of hardware.
+- ie: Allow for a click box to be added to OST ticket creation page to indicate that the ticket is FOR a specific piece of hardware.
 
 2. Ticket aggregation by asset type:
 - in future perhaps add a link table which can be pulled and verified in an admin screen to allow for the editing and association of an asset to a help topic. Long-term this will allow for truly accurate organizational reporting.
